@@ -35,7 +35,7 @@
 
 <tr align="center">
 <td><a href="https://velog.io/@swbaik01/posts">승우 블로그</td>
-<td>영진</td>
+<td><a href="https://velog.io/@younjin_02/posts">영진 블로그</td>
 <td><a href="https://velog.io/@easy1nhard2/posts">지원 블로그</td>
 <td>가연</td>
 <td>은결</td>
