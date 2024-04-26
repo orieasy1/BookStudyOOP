@@ -54,5 +54,5 @@
 * 영진 <a href="https://velog.io/@younjin_02/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-01.-%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94-%EA%B0%9D%EC%B2%B4%EB%93%A4%EC%9D%98-%EA%B3%B5%EB%8F%99%EC%B2%B4">Chap1 정리자료</a>
 * 지원 [Chap1 정리자료](https://velog.io/@easy1nhard2/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-1%EC%9E%A5)
 * 가연
-* 은결
+* 은결 <a href="https://sillaboratory.tistory.com/2">Chap1 정리자료</a>
   
