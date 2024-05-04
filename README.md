@@ -56,7 +56,7 @@
 **Chap 02. 이상한 나라의 객체**
 
 * 승우
-* 영진
+* 영진 <a href="https://velog.io/@younjin_02/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-02.-%EC%9D%B4%EC%83%81%ED%95%9C-%EB%82%98%EB%9D%BC%EC%9D%98-%EA%B0%9D%EC%B2%B4">Chap1 정리자료</a>
 * 지원
 * 은
   
