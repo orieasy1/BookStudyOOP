@@ -67,6 +67,6 @@
 
 **Chap 03. 타입과 추상화**
 
-* 승우
+* 승우<a href="https://velog.io/@swbaik01/객체지향의-사실과-오해">Chap3 정리자료<a/>
 * 영진<a href="https://velog.io/@younjin_02/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-03.-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%B6%94%EC%83%81%ED%99%94">Chap3 정리자료</a>
 * 지원
