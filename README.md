@@ -77,5 +77,5 @@
 **Chap 04. 역할, 책임, 협력**
 
 * 승우
-* 영진
+* 영진 <a href="https://velog.io/@younjin_02/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-04.-%EC%97%AD%ED%95%A0-%EC%B1%85%EC%9E%84-%ED%98%91%EB%A0%A5">Chap4 정리자료</a>
 * 지원 [Chap4 정리자료](https://easy1nhard2.tistory.com/12)
