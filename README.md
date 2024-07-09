@@ -69,4 +69,13 @@
 
 * 승우<a href="https://velog.io/@swbaik01/객체지향의-사실과-오해">Chap3 정리자료<a/>
 * 영진<a href="https://velog.io/@younjin_02/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-03.-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%B6%94%EC%83%81%ED%99%94">Chap3 정리자료</a>
-* 지원
+* 지원 [Chap3 정리자료](https://easy1nhard2.tistory.com/11)
+<br>
+
+2024.07.09 (화)
+
+**Chap 04. 역할, 책임, 협력**
+
+* 승우
+* 영진
+* 지원 [Chap4 정리자료](https://easy1nhard2.tistory.com/12)
