@@ -6,7 +6,10 @@
 <https://product.kyobobook.co.kr/detail/S000001628109>
 
 2. 일시: 매주 금요일 알고리즘 스터디 종료 후 (방학 때는 금 -> 화)
-3. 진도: 매주 한 챕터씩
+3. 진도: 매주 한 섹션 씩<br>
+<img src="![커리큘럼](https://github.com/user-attachments/assets/bef06816-6730-4fcd-9d55-87cedc3071ec)
+">
+
 4. 진행 방향: 매주 한 챕터씩 독서 ➡️ 블로그에 내용 정리 ➡️ 매주 개인 질문 1개 이상 정리 ➡️ 질문 공유 후 토론
 
 <br>
